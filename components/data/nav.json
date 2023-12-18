@@ -1,0 +1,208 @@
+[
+  {
+    "path": "/",
+    "title": "Home"
+  },
+  {
+    "path": "#",
+    "title": "About Us",
+    "submenu": [
+      {
+        "path": "/chinmaya-mission",
+        "title": "Chinmaya Mission"
+      },
+      {
+        "path": "/who-we-are",
+        "title": "Who we are"
+      },
+      {
+        "path": "/what-we-do",
+        "title": "What we do"
+      },
+      {
+        "path": "/where-we-are",
+        "title": "Where we are"
+      },
+      {
+        "path": "#",
+        "title": "Healthcare",
+        "submenu": [
+          {
+            "path": "#",
+            "title": "Chinmaya Mission Hospital"
+          },
+          {
+            "path": "#",
+            "title": "Chinmaya Institute of Nursing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "#",
+    "title": "Explore",
+    "childmenu": [
+      {
+        "path": "#",
+        "title": "Signature Activity",
+        "submenu": [
+          {
+            "path": "/jnana-yajnas",
+            "title": "Jnana Yajnas"
+          },
+          {
+            "path": "/spiritual-camps",
+            "title": "Spiritual Camps"
+          },
+          {
+            "path": "/chinmaya-swaranjali",
+            "title": "Chinmaya Swaranjali"
+          },
+          {
+            "path": "#",
+            "title": "For Children",
+            "submenu": [
+              {
+                "path": "/shishu-vihar",
+                "title": "Shishu Vihar"
+              },
+              {
+                "path": "/bala-vihar",
+                "title": "Bala Vihar"
+              }
+            ]
+          },
+          {
+            "path": "#",
+            "title": "For Youth",
+            "submenu": [
+              {
+                "path": "/yuva-Kendra",
+                "title": "Yuva Kendra"
+              }
+            ]
+          },
+          {
+            "path": "#",
+            "title": "For Children",
+            "submenu": [
+              {
+                "path": "/study-devi-group",
+                "title": "Study Group & Devi Group"
+              },
+              {
+                "path": "/Vanaprastha",
+                "title": "Vanaprastha"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "path": "#",
+        "title": "Spiritual Education",
+        "submenu": [
+          {
+            "path": "#",
+            "title": "Residental Courses",
+            "submenu": [
+              {
+                "path": "/residental-vedanta-course",
+                "title": "Residental Vedanta Course"
+              },
+              {
+                "path": "#",
+                "title": "Vedanta Sadhaka Course"
+              }
+            ]
+          },
+          {
+            "path": "#",
+            "title": "Distance Learning",
+            "submenu": [
+              {
+                "path": "#",
+                "title": "Youth Empowerment Programme"
+              },
+              {
+                "path": "#",
+                "title": "Dharma Sevak Course"
+              },
+              {
+                "path": "#",
+                "title": "Purohita Course"
+              },
+              {
+                "path": "#",
+                "title": "E-Vedanta Courses"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "path": "#",
+        "title": "Academic Education",
+        "submenu": [
+          {
+            "path": "/cm-hospital",
+            "title": "Chinmaya Mission Hospital"
+          },
+          {
+            "path": "/cm-nursing",
+            "title": "Chinmaya Institute of Nursing"
+          }
+        ]
+      },
+      {
+        "path": "#",
+        "title": "Sacred Spaces",
+        "submenu": [
+          {
+            "path": "/cm-hospital",
+            "title": "Chinmaya Mission Hospital"
+          },
+          {
+            "path": "/cm-nursing",
+            "title": "Chinmaya Institute of Nursing"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "path": "#",
+    "title": "Distance Learning",
+    "submenu": [
+      {
+        "path": "#",
+        "title": "Youth Empowerment Programme"
+      },
+      {
+        "path": "#",
+        "title": "Dharma Sevak Course"
+      },
+      {
+        "path": "#",
+        "title": "Purohita Course"
+      },
+      {
+        "path": "#",
+        "title": "E-Vedanta Courses"
+      }
+    ]
+  },
+  {
+    "path": "/news",
+    "title": "News"
+  },
+  {
+    "path": "/events",
+    "title": "Events"
+  },
+  {
+    "path": "/donation",
+    "title": "Donate"
+  }
+]
